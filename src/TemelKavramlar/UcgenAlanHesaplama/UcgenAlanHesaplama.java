@@ -1,4 +1,4 @@
-package UcgenAlanHesaplama;
+package TemelKavramlar.UcgenAlanHesaplama;
 
 import java.util.Scanner;
 
