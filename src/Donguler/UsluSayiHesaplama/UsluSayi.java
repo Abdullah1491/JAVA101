@@ -1,4 +1,4 @@
-package Donguler.UsSayıHesaplama;
+package Donguler.UsluSayiHesaplama;
 
 import java.util.Scanner;
 
